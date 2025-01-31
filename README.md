@@ -58,7 +58,6 @@ I choose this structure for 3 main reasons:
 + Time efficiency
 
 ### What I've learned from ChatGPT?
-+ I asked ChatGPT about all data structures for this project. It provided a list of options along with the pros and cons of each type which help me to choose a suitable one. 
 + I had never used a nested hash map before, and ChatGPT helped me visualize how it works, making it easier to understand its structure and functionality. **I've learned a new data structure from this project!**
 + I learned the syntax and logic of nested hash map from both ChatGPT and searching on Goggle!
 + During the project, I encountered bugs, such as out-of-range exceptions when accessing maps, and I learned from ChatGPT why it happened and how to handle that error.
